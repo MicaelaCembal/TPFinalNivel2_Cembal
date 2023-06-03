@@ -1,0 +1,9 @@
+C:\Users\Usuario\Desktop\CATALOGO\catalogo\bin\Debug\catalogo.dll
+C:\Users\Usuario\Desktop\CATALOGO\catalogo\bin\Debug\catalogo.pdb
+C:\Users\Usuario\Desktop\CATALOGO\catalogo\bin\Debug\dominio.dll
+C:\Users\Usuario\Desktop\CATALOGO\catalogo\bin\Debug\dominio.pdb
+C:\Users\Usuario\Desktop\CATALOGO\catalogo\obj\Debug\catalogo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\CATALOGO\catalogo\obj\Debug\catalogo.csproj.CopyComplete
+C:\Users\Usuario\Desktop\CATALOGO\catalogo\obj\Debug\catalogo.dll
+C:\Users\Usuario\Desktop\CATALOGO\catalogo\obj\Debug\catalogo.pdb
+C:\Users\Usuario\Desktop\CATALOGO\catalogo\obj\Debug\catalogo.csprojAssemblyReference.cache
